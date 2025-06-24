@@ -1,5 +1,3 @@
-# Commit 1: Comentario de prueba
-
 from attitude_control import AttitudeControlSystem
 from power_system import PowerSystem
 from payload import PayloadCamera
